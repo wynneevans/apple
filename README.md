@@ -9,9 +9,9 @@ Decide which X's you would like to use (just use the historic price data provide
 Decide on any regression methodology of your choice (i.e. lasso, NN, MARS regression, HMM etc.)
 
 Show output as the following statistics:
-PnL plot (using $10,000 investment on day 1 compounded throughout the 4626 days of the returns series))
-Monthly return matrix (this is just monthly PnL(columns) by year (rows))
-Daily return
-Annualised Sharpe
-Max drawdown
-Performance vs. a buy – and – hold strategy
+- PnL plot (using $10,000 investment on day 1 compounded throughout the 4626 days of the returns series))
+- Monthly return matrix (this is just monthly PnL(columns) by year (rows))
+- Daily return
+- Annualised Sharpe
+- Max drawdown
+- Performance vs. a buy – and – hold strategy
